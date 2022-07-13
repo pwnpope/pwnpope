@@ -8,6 +8,7 @@
 
 # I’m currently learning
 ## - Rust
+## - Malware RE
 
 # I’m looking to collaborate on
 ## - Security Research Related Topics
