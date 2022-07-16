@@ -15,5 +15,5 @@
 ## - Any Projects You're Willing To Share With Me!
 
 # How to reach me
-## Discord: Kevin Chang#5499
+## Discord: BlackBeard#5499
 
