@@ -2,21 +2,22 @@
 
 ## I’m interested in
 ```txt
-Code Auditing
-Red Teaming
 Reverse Engineering
+Security Research
 ```
 
-## I’m currently learning
+---
+
+## I’m currently
 ```txt
-C/C++/Rust/Go
-Malware RE
+Learning Malware RE
+Hardening My Skills
+trying for %1 on HTB because I already got %1 on THM
+looking forward to competing in more challanging CTFs
+
 ```
-## I’m looking to collaborate on
-```txt
-Security Research Related Topics
-Any Projects You're Willing To Share With Me!
-```
+
+---
 
 # How to reach me
 ## Discord: BlackBeard#5499
