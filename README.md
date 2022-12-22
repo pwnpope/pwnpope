@@ -8,15 +8,13 @@ Security Research
 
 ## I’m currently
 ```txt
-Learning Malware RE
-Hardening My Skills
-trying for %1 on HTB because I already got %1 on THM
-looking forward to competing in more challanging CTFs
-
+Learning harder binary exploitation & reverse engineering topics
+Hardening my skills
+Looking forward to competing in more challanging CTFs
 ```
 
 ---
 
 # How to reach me
-## Discord: BlackBeard#5499
+## Discord: 72 6F 6F 74#4104
 
