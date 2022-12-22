@@ -1,5 +1,3 @@
-![](https://media.giphy.com/media/Nuw350JrWXm0/giphy.gif)
-
 ## I’m interested in
 ```txt
 Reverse Engineering
