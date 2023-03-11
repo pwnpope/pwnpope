@@ -10,5 +10,5 @@ Security Research
 ```txt
 Learning harder binary exploitation & reverse engineering topics
 Hardening my skills
-Looking forward to competing in more challanging CTFs
+Looking forward to competing in more challenging CTFs
 ```
