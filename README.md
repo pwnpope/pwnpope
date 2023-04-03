@@ -1,9 +1,5 @@
 # PwnPope
 
-<p align="center">
-  <img src="https://i.imgur.com/56rAlhP.gif" width="100%">
-</p>
-
 ## 🤖 Vulnerability Researcher & Reverse Engineer
 ### 🎓 Student of the Computer
 ### 🧑‍🏫 Teacher to the People
