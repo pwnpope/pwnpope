@@ -1,9 +1,9 @@
 # PwnPope
 
-Vulnerability Researcher & Reverse Engineer
-student of the computer
-teacher to the people
-cat lover 
++ Vulnerability Researcher & Reverse Engineer
++ student of the computer
++ teacher to the people
++ cat lover 
 
 ---
 
