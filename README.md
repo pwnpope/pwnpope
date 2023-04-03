@@ -9,7 +9,7 @@
 languages:
 
 ```
-Assembly: x86_32 & 86_64, ARM, MIPS
+Architectures: x86, ARM, MIPS
 Compiled Languages: RUST, GO, C, C++, JAVA
 Interpreted Languages: Python, Ruby PHP, JS
 ```
