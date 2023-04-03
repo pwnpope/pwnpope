@@ -8,10 +8,12 @@
   
 ## 🚀 Languages & Technologies
 
-```plaintext
+```
 Architectures:       x86 💻 | ARM 📱 | MIPS 🎮
 Compiled Languages:  RUST ⚙️ | GO 🚦 | C 🔧 | C++ 🎛️ | JAVA ☕
 Interpreted Languages: PYTHON 🐍 | RUBY 💎 | PHP 🌐 | JS 🖥️
+```
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bytecodez&theme=great-gatsby&show_icons=true" />
 </p>
