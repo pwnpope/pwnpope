@@ -7,8 +7,8 @@
 ---
   
 ```
-Architectures:         x86    | ARM  | MIPS
-Compiled Languages:    RUST   | GO   | C   | C++ | JAVA
+Architectures:         x86    | ARM  |
+Compiled Languages:    RUST   |  C   | C++ |
 Interpreted Languages: PYTHON | RUBY | PHP | JS
 ```
 ![](https://github-readme-stats.vercel.app/api?username=pwnpope&theme=monokai&show_icons=true)
