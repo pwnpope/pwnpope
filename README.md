@@ -1,8 +1,8 @@
 # PwnPope
 
 - Vulnerability Researcher & Reverse Engineer
-- Student of the Computer
-- Teacher to the People
+- Student Of The Computer
+- Teacher to The People
 
 ---
   
