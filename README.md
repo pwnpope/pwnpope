@@ -6,7 +6,7 @@
 ---
   
 ```
-Architectures:         x86 | ARM64
+Architectures:         x86 | ARM
 Compiled Languages:    RUST | C | C++ | Go
 Interpreted Languages: PYTHON | RUBY | PHP | JS 
 ```
