@@ -1,7 +1,8 @@
 # PwnPope
 
 - Vulnerability Researcher & Reverse Engineer
-- Student Of The Computer & Teacher to The People
+- CTF Player
+- Teacher
 
 ---
   
@@ -12,4 +13,5 @@ Interpreted Languages: PYTHON | PHP
 ```
 ![](https://github-readme-stats.vercel.app/api?username=pwnpope&theme=monokai&show_icons=true)
 
-- [youtube](https://youtube.com/@pwnpope) - upload all my videos here.
+- [youtube](https://youtube.com/@pwnpope) - Video writeups, Lectures and more from the pwnpope
+- [website](https://pwn.ceo) - Checkout my blog
