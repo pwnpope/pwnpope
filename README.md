@@ -14,4 +14,4 @@ Interpreted Languages: PYTHON | PHP
 ![](https://github-readme-stats.vercel.app/api?username=pwnpope&theme=monokai&show_icons=true)
 
 - [YouTube](https://youtube.com/@pwnpope) - Video writeups, Lectures and more from the pwnpope
-- [Blog](https://pwn.ceo) - Checkout my blog
+- [Blog](https://pwnpope.com) - Checkout my blog
